@@ -1,0 +1,13 @@
+body{ 
+    text-align: justify;
+    margin: 0;
+}
+header{
+    background-color: lightgray;
+    flex-shrink: 0;
+    grid-auto-rows: auto
+    
+}
+h2{
+    font-size: 22;
+}
